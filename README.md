@@ -1,4 +1,4 @@
-# Ferrari Timeline
+# Task 3 - Javascript
 
 ## Goal
 An interactive timeline that showcases key moments in Ferrari’s history, using vanilla JavaScript for dynamic event loading and modal-based details.
