@@ -1,0 +1,72 @@
+[
+  {
+    "year": "1929",
+    "title": "Founding of Scuderia Ferrari",
+    "shortDescription": "Enzo Ferrari starts a racing team in Modena, Italy.",
+    "description": "Enzo Ferrari establishes Scuderia Ferrari in Modena, Italy, as a racing team for Alfa Romeo cars. This marks the beginning of what would become one of the most iconic names in motorsport and automotive history.",
+    "imageURL": "images/ferrari_1929.jpg"
+  },
+  {
+    "year": "1947",
+    "title": "First Ferrari Car - 125 S",
+    "shortDescription": "Ferrari's first road car with a V12 engine.",
+    "description": "Ferrari builds its first road car, the 125 S, powered by a 1.5 L V12 engine. The car made its racing debut at the Piacenza Circuit, beginning Ferrari's legacy in performance engineering.",
+    "imageURL": "images/ferrari_125s.jpg"
+  },
+  {
+    "year": "1962",
+    "title": "Ferrari 250 GTO",
+    "shortDescription": "Launch of the legendary 250 GTO.",
+    "description": "The Ferrari 250 GTO is launched, becoming one of the most valuable collector cars in the world. Known for its performance and beauty, only 36 units were built between 1962 and 1964.",
+    "imageURL": "images/ferrari_250gto.jpg"
+  },
+  {
+    "year": "1984",
+    "title": "Ferrari Testarossa",
+    "shortDescription": "A style icon of the 1980s.",
+    "description": "The Ferrari Testarossa becomes a symbol of 1980s performance and style, featuring a flat-12 engine, unique side strakes, and a design that captured the era's bold spirit.",
+    "imageURL": "images/ferrari_testarossa.jpg"
+  },
+  {
+    "year": "1987",
+    "title": "Ferrari F40",
+    "shortDescription": "Built for Ferrari’s 40th anniversary.",
+    "description": "The Ferrari F40 was created to celebrate the company's 40th anniversary. With raw performance, a twin-turbo V8, and lightweight construction, it became one of the most iconic supercars ever built.",
+    "imageURL": "images/ferrari_f40.jpg"
+  },
+  {
+    "year": "1995",
+    "title": "Ferrari F50",
+    "shortDescription": "Formula 1 technology for the road.",
+    "description": "The Ferrari F50 is a Formula 1-inspired road car featuring a naturally aspirated V12 engine derived from Ferrari's 641 F1 car. Only 349 units were produced, making it highly collectible.",
+    "imageURL": "images/ferrari_f50.jpg"
+  },
+  {
+    "year": "2002",
+    "title": "Ferrari Enzo",
+    "shortDescription": "A flagship supercar named after the founder.",
+    "description": "The Ferrari Enzo combines advanced aerodynamics, carbon fiber construction, and a 6.0L V12 engine to create one of the most advanced supercars of its time. It was named in honor of company founder Enzo Ferrari.",
+    "imageURL": "images/ferrari_enzo.jpg"
+  },
+  {
+    "year": "2013",
+    "title": "LaFerrari",
+    "shortDescription": "Ferrari’s first hybrid hypercar.",
+    "description": "LaFerrari integrates a V12 engine with an electric motor to deliver extreme performance and efficiency. It represents Ferrari's leap into hybrid technology without compromising its racing heritage.",
+    "imageURL": "images/ferrari_laferrari.jpg"
+  },
+  {
+    "year": "2019",
+    "title": "Ferrari SF90 Stradale",
+    "shortDescription": "A 1000-hp plug-in hybrid supercar.",
+    "description": "The SF90 Stradale is Ferrari’s first plug-in hybrid supercar, producing nearly 1000 horsepower. It marks a significant step in Ferrari’s electrification strategy while maintaining exceptional driving dynamics.",
+    "imageURL": "images/ferrari_sf90.jpg"
+  },
+  {
+    "year": "2022",
+    "title": "Ferrari Purosangue SUV",
+    "shortDescription": "Ferrari's first SUV.",
+    "description": "Ferrari unveils the Purosangue, its first-ever SUV, blending luxury and performance in a unique package. With a naturally aspirated V12 and advanced all-wheel drive, it expands Ferrari’s reach into a new market.",
+    "imageURL": "images/ferrari_purosangue.jpg"
+  }
+]
